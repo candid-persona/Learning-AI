@@ -1,2 +1,2 @@
 # Learning-AI
-AI basics and cloud tools
+Learnig AI basics and cloud tools.
